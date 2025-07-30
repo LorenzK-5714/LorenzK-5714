@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-I'm an MRes candidate at the Paris School of Economics. I work as a Data Replicator for the Royal Economic Society and the Journal of Political Economy, and I'm also a research assistant for a project at Harvard.
+I'm a Ph.D. candidate in Economics at Sciences Po, Paris. I also work as a Replicator for the _Journal of Political Economy_.
